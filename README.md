@@ -12,11 +12,11 @@ I created this website to showcase my work. I’m always striving to create some
 
 ## Screenshots & Demo
 
-![App Screenshot](https://ibb.co/bkjxzgB)
+![App Screenshot](public\Readme\Homepage.jpg)
 
-![App Screenshot](https://i.ibb.co/3TK00Z0/image.png)
+![App Screenshot](public\Readme\Project.jpg)
 
-![App Screenshot](https://i.ibb.co/MGrGvsp/image.png)
+![App Screenshot](public\Readme\LetsTalk.jpg)
 
 [View Live Demo](https://harshal-dev.vercel.app/)
 
