@@ -12,7 +12,7 @@ I created this website to showcase my work. I’m always striving to create some
 
 ## Screenshots & Demo
 
-![App Screenshot](https://i.ibb.co/QCCYZyq/image.png)
+![App Screenshot](https://ibb.co/bkjxzgB)
 
 ![App Screenshot](https://i.ibb.co/3TK00Z0/image.png)
 
