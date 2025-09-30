@@ -5,8 +5,8 @@ import { Syne } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: "Home | Harshal Portfolio",
-  description: "Portfolio of Harshal Bhangale, MERN Stack & Next.js Developer",
+  title: "Harshal Portfolio",
+  description: "Portfolio of Harshal Bhangale, Full Stack Developer",
 };
 
 

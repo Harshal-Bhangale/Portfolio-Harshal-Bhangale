@@ -16,15 +16,15 @@ const Footer = () => {
       >
         <div className="relative overflow-hidden w-12 h-12 rounded-full">
           <Link
-            href="https://github.com/mayankyadav1711"
+            href="https://github.com/Harshal-Bhangale"
             target="_blank"
-            aria-label="MYK's GitHub Profile"
+            aria-label="HB's GitHub Profile"
           >
             <span className="underline underline-offset-2 hover:no-underline">
               <div className="absolute inset-0 transform scale-150 hover:scale-110 transition-transform duration-300 ease-in-out">
                 <Image
                   src={mlogo}
-                  alt="Mayank Yadav's Photo"
+                  alt="Harshal Bhangale's Photo"
                   layout="fill"
                   className="rounded-full object-cover"
                 />
