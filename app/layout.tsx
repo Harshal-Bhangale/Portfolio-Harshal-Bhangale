@@ -3,6 +3,13 @@ import { ReactNode } from "react";
 import type { Metadata, Viewport } from "next";
 import { Syne } from "next/font/google";
 
+
+export const metadata: Metadata = {
+  title: "Home | Harshal Portfolio",
+  description: "Portfolio of Harshal Bhangale, MERN Stack & Next.js Developer",
+};
+
+
 const syne = Syne({
   subsets: ["latin"],
   display: "block",
