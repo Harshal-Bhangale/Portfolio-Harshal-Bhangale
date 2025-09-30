@@ -8,7 +8,7 @@ const syne = Syne({
   display: "block",
   weight: ["400", "500", "600", "700", "800"],
 });
-
+/*
 export const metadata: Metadata = {
   title: "Mayank Yadav — MERN Stack Developer",
   description:
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
   },
   category: "technology",
 };
-
+*/
 // ✅ Move colorScheme to a new viewport export
 export const viewport: Viewport = {
   colorScheme: "dark",
