@@ -14,7 +14,7 @@ I created this website to showcase my work. I’m always striving to create some
 
 ![App Screenshot](https://i.ibb.co/NMgXZ6j/Homepage.jpg)
 
-![App Screenshot](public\Readme\Project.jpg)
+![App Screenshot](https://i.ibb.co/NnF304Qh/Project.jpg)
 
 ![App Screenshot](https://i.ibb.co/MGrGvsp/image.png)
 
